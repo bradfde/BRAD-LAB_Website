@@ -27,9 +27,8 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
    color = "Aquamarine"
   
   # Background gradient.
-   gradient_start = "Aquamarine"
-   gradient_end = "Aquamarine"
-  
+   gradient_start = "rgb(25, 100, 150)"
+   gradient_end = "rgb(0, 102, 153)"
   
   # Background image.
   image = "PalmTrees4.webp"  # Name of image in `static/img/`.
@@ -48,7 +47,7 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "custom.scss"
  
  # CSS class.
  css_class = ""
@@ -64,7 +63,7 @@ Welcome to the BRAD-LAB! We are part of the [Psychology   Department](https://ww
 {{% /alert %}}
 
 
-<a class="twitter-timeline" data-theme="dark" data-height = '300' href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-theme="dark" data-height = '500' href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <sub>Consistent with our lab's commitment to open source tools, this website was made in R Studio using Markdown and Hugo</sub>
 
