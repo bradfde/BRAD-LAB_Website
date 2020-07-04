@@ -24,7 +24,7 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "Aquamarine"
+  # color = "Aquamarine"
   
   # Background gradient.
    gradient_start = "rgb(25, 100, 150)"
