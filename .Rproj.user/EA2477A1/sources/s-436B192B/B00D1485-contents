@@ -64,8 +64,7 @@ Welcome to the BRAD-LAB! We are part of the [Psychology   Department](https://ww
 {{% /alert %}}
 
 
-<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<a class="twitter-timeline" data-theme="dark" data-height = '300' href="https://twitter.com/Daniel_Brad4d?ref_src=twsrc%5Etfw">Tweets by Dr Bradford, Lab Director</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <sub>Consistent with our lab's commitment to open source tools, this website was made in R Studio using Markdown and Hugo</sub>
 
