@@ -47,7 +47,7 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
 
 [advanced]
  # Custom CSS. 
- css_style = "custom.scss"
+ css_style = ""
  
  # CSS class.
  css_class = ""
