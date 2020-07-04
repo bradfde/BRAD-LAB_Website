@@ -36,7 +36,7 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
   image_darken = 0.30  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -46,11 +46,11 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
   padding = ["50px", "0", "850px", "0"]
 
 [advanced]
- # Custom CSS. 
- css_style = "custom"
+ # Custom CSS. (for direct code)
+ css_style = "@media only screen and (max-width:749px){.parallax {background-attachment:inherit;}}"
  
- # CSS class.
- css_class = "custom"
+ # CSS class. (to call file)
+ css_class = "/scss/custom.scss"
 +++
 \
 \
