@@ -1,1 +1,7 @@
 // Override this file to add your own SCSS styling.
+/*disable parallax for background image on mobile*/
+@media only screen and (max-width:749px) {
+  .parallax {
+    background-attachment: inherit;
+  }
+}

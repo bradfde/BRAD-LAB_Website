@@ -47,10 +47,10 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
 
 [advanced]
  # Custom CSS. 
- css_style = "parallax"
+ css_style = "custom"
  
  # CSS class.
- css_class = "parallax"
+ css_class = "custom"
 +++
 \
 \
