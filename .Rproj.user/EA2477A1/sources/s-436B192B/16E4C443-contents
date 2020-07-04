@@ -2,21 +2,8 @@
 authors:
 - Carmen
 bio: NA.
-education:
-  courses:
-  - course: PhD in Clinical Psychology
-    institution: University of Wisconsin-Madison
-    year: 2019
-  - course: Clinical Internship 
-    institution: McLean Hospital / Harvard Medical School
-    year: 2019
-  - course: MS in Clinical Psychology
-    institution: University of Wisconsin-Madison
-    year: 2009
-  - course: BA in Psychology
-    institution: Auburn University
-    year: 2007
-email: "dbradford@miami.edu"
+
+email: "cml224@miami.edu"
 interests:
 #- Stress
 #- Anxiety
