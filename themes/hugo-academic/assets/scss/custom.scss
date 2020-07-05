@@ -1,8 +1,9 @@
 /*disable parallax for background image on mobile*/
 
-@media (max-width: 767px)
-.elementor:not(.elementor-edit-area-active) .elementor-hidden-phone {
-    display: block !important;
+@media only screen and (max-width:749px) {
+  .parallax {
+    background-attachment: scroll;
+  }
 }
 
 /*@media only screen and (max-width: 767px){
