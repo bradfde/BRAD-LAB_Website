@@ -43,7 +43,7 @@ image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 i
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50px", "0", "850px", "0"]
+  padding = ["50px", "0", "700px", "0"]
 
 [advanced]
  # Custom CSS. (for direct code)
