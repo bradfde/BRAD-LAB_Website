@@ -24,17 +24,17 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "Aquamarine"
+   color = "rgb(25, 100, 150)"
   
   # Background gradient.
-   gradient_start = "rgb(25, 100, 150)"
-   gradient_end = "rgb(0, 102, 153)"
+  # gradient_start = "rgb(25, 100, 150)"
+  # gradient_end = "rgb(0, 102, 153)"
    
   # Background image.
   image = "PalmTrees4.webp"  # Name of image in `static/img/`.
   
-image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
