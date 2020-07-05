@@ -33,8 +33,8 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
   # Background image.
   image = "PalmTrees4.webp"  # Name of image in `static/img/`.
   
-  image_darken = 0.30  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
@@ -47,10 +47,10 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
 
 [advanced]
  # Custom CSS. (for direct code)
- css_style = "@media only screen and (max-device-height : 1024px) and (max-device-width : 1024px) {.palette-primary.custom-background,.boldgrid-section.background-fixed {background-attachment: scroll !important;}}"
+ css_style = ""
  
  # CSS class. (to call file)
- css_class = ""
+ css_class = "custom.scss"
 +++
 \
 \
