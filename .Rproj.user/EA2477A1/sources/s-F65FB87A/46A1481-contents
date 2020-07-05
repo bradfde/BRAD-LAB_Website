@@ -1,0 +1,82 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "BRAD-LAB"
+  url = "#home"
+  weight = 10
+
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 20
+  
+[[main]]
+  name = "Research"
+  url = "#research"
+  weight = 30
+  
+  #[[main]]
+  #name = "About"
+  #url = "#about"
+  #weight = 20
+  
+#[[main]]
+  #name = "Methods"
+  #url = "#methods"
+  #weight = 40
+  
+[[main]]
+  name = "Publications"
+  url = "#lab_pubs"
+  weight = 40
+  
+[[main]]
+  name = "Posters and Presentations"
+  url = "#lab_posters_presentations"
+  weight = 50
+  
+#[[main]]
+#  name = "Courses"
+#  url = "courses/"
+ # weight = 60
+  
+[[main]]
+  name = "Lab values"
+  url = "#lab_values"
+  weight = 60
+  
+[[main]]
+  name = "Lab pets"
+  url = "#lab_pets"
+  weight = 70
+
+
+[[main]]
+ # name = "Posts"
+  #url = "#posts"
+  #weight = 35
+
+[[main]]
+  #name = "Projects"
+  #url = "#projects"
+  #weight = 30
+
+[[main]]
+  name = "Joining the Lab"
+  url = "#joining_lab"
+  weight = 80
+
+[[main]]
+  name = "Contact and Location"
+  url = "#contact"
+  weight = 90
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ [[main]]
+    #name = "CV"
+    #url = "files/cv.pdf"
+    #weight = 70
