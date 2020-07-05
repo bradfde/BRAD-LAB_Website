@@ -47,7 +47,7 @@ subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Labo
 
 [advanced]
  # Custom CSS. (for direct code)
- css_style = "@media only screen{.parallax {background-attachment:inherit;}}"
+ css_style = "@media only screen and (max-device-height : 1024px) and (max-device-width : 1024px) {.palette-primary.custom-background,.boldgrid-section.background-fixed {background-attachment: scroll !important;}}"
  
  # CSS class. (to call file)
  css_class = ""
