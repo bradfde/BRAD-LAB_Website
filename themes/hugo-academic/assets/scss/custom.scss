@@ -1,18 +1,9 @@
 /*disable parallax for background image on mobile*/
 
-@media only screen and (max-width: 959px) {
-body:before {
-content: "";
-background-image: url('/static/img/PalmTrees4.webp');
-background-size: cover;
-position: fixed;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
+@media (max-width: 767px)
+.elementor:not(.elementor-edit-area-active) .elementor-hidden-phone {
+    display: block !important;
 }
-}
-
 
 /*@media only screen and (max-width: 767px){
 body { background: rgb(25, 100, 150) !important; }
