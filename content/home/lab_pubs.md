@@ -93,7 +93,7 @@ Kaye J.T., Bradford D.E., Curtin J.J.(2016). Psychometric properties of startle 
 <br/>
 Bradford, D.E., Curtin, J.J., Piper, M.E. (2015). Anticipation of smoking sufficiently lowers stress reactivity for nicotine deprived smokers. *Journal of Abnormal Psychology*, 124(1), 128-136. doi:10.1037/abn0000007. [PDF](files/BradfordD2015a/BradfordD2015a.pdf)
 
-Bradford, D.E., Starr, M.J., Shackman, A.J., Curtin, J. J. (2015). Empirically-basedcomparisons of the reliability and validity of common quantification approaches for eyeblink startle potentiation in humans. *Psychophysiology*,52(12), 1669-1681. doi: 10.1111/psyp.12545 [PDF](files/BradfordD2015b/BradfordD2015b.pdf) [OSF](https://osf.io/5nfvu/)
+Bradford, D.E., Starr, M.J., Shackman, A.J., Curtin, J. J. (2015). Empirically-based comparisons of the reliability and validity of common quantification approaches for eyeblink startle potentiation in humans. *Psychophysiology*,52(12), 1669-1681. doi: 10.1111/psyp.12545 [PDF](files/BradfordD2015b/BradfordD2015b.pdf) [OSF](https://osf.io/5nfvu/)
 
 Green, C.S., Eichenbaum, A., Kattner, F., Bradford, D.E.,Gentile, D.A., Choo, H., Hsueh, V., Chen, H., Khoo, A. (2015). The role of game genres and the development of internet gaming disorder in school-aged children. *Journal of Addictive Behaviors, Therapy & Rehabilitation* 4(3),doi:10.4172/2324-9005.1000141
 
@@ -103,7 +103,7 @@ Eichenbaum, A., Kattner, F.,Bradford, D.E., Gentile, D.A., Green, C.S. (2015). R
 -2014-
 <br/>
 <br/>
-Bradford, D.E., Kaye, J.T., Curtin, J.J. (2014). Not just noise: Individual differences in general startle reactivity predict startle reactivity to uncertain andcertain threat. *Psychophysiology*,51(5), 707-411. doi:10.1111/psyp.12193. [PDF](files/BradfordD2014b/BradfordD2014b.pdf)
+Bradford, D.E., Kaye, J.T., Curtin, J.J. (2014). Not just noise: Individual differences in general startle reactivity predict startle reactivity to uncertain and certain threat. *Psychophysiology*,51(5), 707-411. doi:10.1111/psyp.12193. [PDF](files/BradfordD2014b/BradfordD2014b.pdf)
 
 Bradford, D.E., Magruder, K.P., Korhumel, R.A., Curtin, J.J. (2014). Using the threat probability task to assess anxiety and fear to uncertain and certain threat. *Journal of Visualized Experiments*(91). doi:10.3791/51905. [PDF](files/BradfordD2014b/BradfordD2014b.pdf) [Video](https://www.jove.com/embed/player?id=51905&access=vqy3aggu&t=1&s=1)
 
@@ -119,4 +119,4 @@ Bradford, D.E., Shapiro, B.L., Curtin, J.J. (2013). How bad could it be? Alcohol
 -2009-
 <br/>
 <br/>
-Lissek, S., Rabin S., McDowell D., Dvir S., Bradford, D.E., Geraci, M., Pine, S., Grillon, C., (2009). Impaired discriminative fear-conditioning resulting from elevated fear-respondingto learned safety cues among individuals with panic disorder. *Behaviour Research and Therapy*, 47(2), 111–118. doi:10.1016/j.brat.2008.10.017 
+Lissek, S., Rabin S., McDowell D., Dvir S., Bradford, D.E., Geraci, M., Pine, S., Grillon, C., (2009). Impaired discriminative fear-conditioning resulting from elevated fear-responding to learned safety cues among individuals with panic disorder. *Behaviour Research and Therapy*, 47(2), 111–118. doi:10.1016/j.brat.2008.10.017 

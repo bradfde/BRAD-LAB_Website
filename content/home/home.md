@@ -54,12 +54,12 @@ image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 i
 +++
 \
 \
-Welcome to the BRAD-LAB! We are part of the [Psychology   Department](https://www.psy.miami.edu/) at the [University of   Miami](https://www.miami.edu). We take a multi-method experimental approach to studying the affective and emotional responses to stressors and how commonly used drugs change those responses. We study the mechanisms of these responses by assessing their neurobiologial, cognitive, and behavioral components. We want to learn how responses to stressors are important in mental health challenges such as addiction and anxiety so we can better treat such challenges. Because we want to get to the truth in our research, we approah our work with an eye to rigour and replicability consistent with the "reproducibility revolution" and open science movement. You can read the unusual story of our lab's name [here]({{< ref "/LabName.md" >}}).  
+**Welcome to the BRAD-LAB! We are part of the [Psychology   Department](https://www.psy.miami.edu/) at the [University of   Miami](https://www.miami.edu). We take a multi-method experimental approach to studying the affective and emotional responses to stressors and how commonly used drugs change those responses. We study the mechanisms of these responses by assessing their neurobiological, cognitive, and behavioral components. We want to learn how responses to stressors are important in mental health challenges such as addiction and anxiety so we can better treat such challenges. Because we want to get to the truth in our research, we approach our work with an eye to rigor and replicability consistent with the "reproducibility revolution" and open science movement. You can read the unusual story of our lab's name [here]({{< ref "/LabName.md" >}}).**      
 
 <br/>
 <br/>
 
-{{% alert note %}}We WILL be reviewing graduate student applications for the 2020-21 cycle. Learn more about working in the BRAD-LAB-- including Dr. Bradford's mentoring--by reading the "Joining the Lab" and the "Lab values" pages on this site. Read about the University of Miami's Clinical Psychology program--including how to apply--[here](https://www.psy.miami.edu/graduate/clinical-program/).
+{{% alert note %}}We WILL be reviewing graduate student applications for the 2020-21 cycle. Learn more about working in the BRAD-LAB -- including Dr. Bradford's mentoring -- by reading the "Joining the Lab" and the "Lab values" pages on this site. Read about the University of Miami's Clinical Psychology program -- including how to apply -- [here](https://www.psy.miami.edu/graduate/clinical-program/).
 {{% /alert %}}  
 
 <br/>

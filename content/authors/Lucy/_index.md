@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: University of Miami
   url: ""
-role: Great Pyrenesse Mountain Dog 
+role: Great Pyrenees Mountain Dog 
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -43,4 +43,4 @@ user_groups:
 - All lab members' pets
 - 
 ---
-I am a Great Pyrenesse Mountain Dog. I am the most athletic Great Pyreneese you will ever meet. My breed usually sleeps 18 hours a day but I cam run with the best of them. I go on two walks a day, one 30-40 minute jog every night, and have park zoomies about once a week (weather permitting). Learn about the infamous Pyr Paw and some of my other quarks [here](https://www.pyradigmgreatpyrenees.com/pyr-facts).
+I am a Great Pyrenees Mountain Dog. I am the most athletic Great Pyrenees you will ever meet. My breed usually sleeps 18 hours a day but I cam run with the best of them. I go on two walks a day, one 30-40 minute jog every night, and have park zoomies about once a week (weather permitting). Learn about the infamous Pyr Paw and some of my other quarks [here](https://www.pyradigmgreatpyrenees.com/pyr-facts).

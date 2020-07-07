@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Lab Pets"
-subtitle = "The U of Miami Psychology Department has a [tradition](http://local.psy.miami.edu/people/faculty/ccarver/my-dog-calvin/) of recongizing our different species family members"
+subtitle = "The U of Miami Psychology Department has a [tradition](http://local.psy.miami.edu/people/faculty/ccarver/my-dog-calvin/) of recognizing our different species family members"
 
 [content]
   # Choose which groups/teams of users to display.

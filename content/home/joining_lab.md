@@ -80,6 +80,6 @@ If you have a resume or CV, please attach it to your email.
 <br/>
 <br/>
 
-{{% alert note %}}We WILL be reviewing graduate student applications for the 2020-21 cycle. Learn more about working in the BRAD-LAB-- including Dr. Bradford's mentoring--by reading the lab values on this page. Read about the University of Miami's Clinical Psychology program--including how to apply--[here](https://www.psy.miami.edu/graduate/clinical-program/).
+{{% alert note %}}We WILL be reviewing graduate student applications for the 2020-21 cycle. Learn more about working in the BRAD-LAB -- including Dr. Bradford's mentoring -- by reading the lab values on this page. Read about the University of Miami's Clinical Psychology program -- including how to apply -- [here](https://www.psy.miami.edu/graduate/clinical-program/).
 {{% /alert %}}
 
