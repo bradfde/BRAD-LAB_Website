@@ -35,7 +35,7 @@
   
 [[main]]
   name = "Posters and Presentations"
-  url = "#lab_posters_presentations"
+  url = "/Presentations/"
   weight = 50
   
 #[[main]]
@@ -73,6 +73,11 @@
   name = "Contact and Location"
   url = "#contact"
   weight = 90
+  
+[[main]]
+ # name = "Lab Name"
+#  url = "/Presentations/"
+ # weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

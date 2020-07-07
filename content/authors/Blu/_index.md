@@ -12,7 +12,7 @@ interests:
 organizations:
 - name: University of Miami
   url: ""
-role: 
+role: Miniature Poodle
 social:
 #- icon: envelope
 #  icon_pack: fas

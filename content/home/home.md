@@ -59,7 +59,7 @@ Welcome to the BRAD-LAB! We are part of the [Psychology   Department](https://ww
 <br/>
 <br/>
 
-{{% alert note %}}We WILL be reviewing graduate student applications for the 2020-21 cycle. Learn more about working in the BRAD-LAB-- including Dr. Bradford's mentoring--by reading the "Joining the Lab" the "Lab values" pages on this page. Read about the University of Miami's Clinical Psychology program--including how to apply--[here](https://www.psy.miami.edu/graduate/clinical-program/).
+{{% alert note %}}We WILL be reviewing graduate student applications for the 2020-21 cycle. Learn more about working in the BRAD-LAB-- including Dr. Bradford's mentoring--by reading the "Joining the Lab" and the "Lab values" pages on this site. Read about the University of Miami's Clinical Psychology program--including how to apply--[here](https://www.psy.miami.edu/graduate/clinical-program/).
 {{% /alert %}}  
 
 <br/>
