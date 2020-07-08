@@ -67,6 +67,5 @@ image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 i
 <br/>
 <br/> 
 
-
 <sub>Consistent with our lab's commitment to open source tools, this website was made in R Studio using R Markdown and the Hugo Academic Theme</sub>
 
