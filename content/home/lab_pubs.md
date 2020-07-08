@@ -64,36 +64,36 @@ OSF =  link to Open Science Foundation project repository for shared data and ma
 
 -2018-
 
-Bradford, D.E., Fronk, G.E., Sant’Ana, S.J., Magruder, K.P., Kaye, J.T., Curtin, J.J. (2018). The need for precise answers for the goals of precision medicine in alcohol dependence to succeed. *Neuropsychopharmacology*, 43, 1799–1800. doi.org/10.1038/s41386-018-0112-y. [PDF](files/BradfordD2018/BradfordD2018a.pdf)
+Bradford, D.E., Fronk, G.E., Sant’Ana, S.J., Magruder, K.P., Kaye, J.T., Curtin, J.J. (2018). The need for precise answers for the goals of precision medicine in alcohol dependence to succeed. *Neuropsychopharmacology*, 43, 1799–1800. doi.org/10.1038/s41386-018-0112-y. [**PDF**](files/BradfordD2018/BradfordD2018a.pdf)
 <br/>
 
-Lakens D., Adolfi F.G., Albers C.J. ... Bradford D.E. ...Zwaan R.A.(2018). Justify your alpha. *Nature Human Behavior*(2), 168-171. doi:10.1038/s41562-018-0311-x. [PDF](files\LakensD2018a\LakensD2018a.pdf) [OSF](https://osf.io/by2kc/)
+Lakens D., Adolfi F.G., Albers C.J. ... Bradford D.E. ...Zwaan R.A.(2018). Justify your alpha. *Nature Human Behavior*(2), 168-171. doi:10.1038/s41562-018-0311-x. [**PDF**](files\LakensD2018a\LakensD2018a.pdf) [OSF](https://osf.io/by2kc/)
 
-Hur, J., Kaplan, C.M., Smith, J.S., Bradford, D.E., Fox, A.S., Curtin, J.J., Shackman, A.J. (2018). Acute alcohol administration dampens threat-related activation in the central extended amygdala. *Scientific Reports*, 8,doi:10.1038/s41598-018-34987-3. [PDF](files/HurJ2018a/HurJ2018a.pdf)
+Hur, J., Kaplan, C.M., Smith, J.S., Bradford, D.E., Fox, A.S., Curtin, J.J., Shackman, A.J. (2018). Acute alcohol administration dampens threat-related activation in the central extended amygdala. *Scientific Reports*, 8,doi:10.1038/s41598-018-34987-3. [**PDF**](files/HurJ2018a/HurJ2018a.pdf)
 <br/>
 <br/>
 -2017-
 <br/>
 <br/>
-Bradford, D.E., Motschman, C.A., Starr, M.J., Curtin, J.J. (2017). Alcohol’s effects on emotionally motivated attention, defensive reactivity, and subjective anxiety during uncertain threat. *Social Cognitive and Affective Neuroscience*, 12(11), 1823–1832.doi:10.1093/scan/nsx095. [PDF](files/BradfordD2017a/BradfordD2017a.pdf) [OSF](https://osf.io/5n7hm/)
+Bradford, D.E., Motschman, C.A., Starr, M.J., Curtin, J.J. (2017). Alcohol’s effects on emotionally motivated attention, defensive reactivity, and subjective anxiety during uncertain threat. *Social Cognitive and Affective Neuroscience*, 12(11), 1823–1832.doi:10.1093/scan/nsx095. [**PDF**](files/BradfordD2017a/BradfordD2017a.pdf) [OSF](https://osf.io/5n7hm/)
 
-Moberg, C.A., Bradford, D.E., Kaye, J.T., Curtin, J.J. (2017). Increased startle potentiation to unpredictable stressors in alcohol dependence: Possible stress neuroadaptation in humans. *Journal of Abnormal Psychology*, 126(4), 441-453.doi: 10.1037/abn0000265. [PDF](files/MobergC2017a/MobergC2017a.pdf) [OSF](https://osf.io/ykmuh/)
+Moberg, C.A., Bradford, D.E., Kaye, J.T., Curtin, J.J. (2017). Increased startle potentiation to unpredictable stressors in alcohol dependence: Possible stress neuroadaptation in humans. *Journal of Abnormal Psychology*, 126(4), 441-453.doi: 10.1037/abn0000265. [**PDF**](files/MobergC2017a/MobergC2017a.pdf) [OSF](https://osf.io/ykmuh/)
 
-Kaye J.T., Bradford D.E., Magruder K.P., Curtin J.J. (2017). Probing for neuroadaptations to unpredictable stressors in addiction: translational methods and emerging evidence. *Journal of Studies on Alcohol and Drugs*, 78(3).353-371. doi: 10.15288/jsad.2017.78.353. [PDF](files/KayeJ2017a/KayeJ2017a.pdf) [OSF](https://osf.io/stxgc/)
+Kaye J.T., Bradford D.E., Magruder K.P., Curtin J.J. (2017). Probing for neuroadaptations to unpredictable stressors in addiction: translational methods and emerging evidence. *Journal of Studies on Alcohol and Drugs*, 78(3).353-371. doi: 10.15288/jsad.2017.78.353. [**PDF**](files/KayeJ2017a/KayeJ2017a.pdf) [OSF](https://osf.io/stxgc/)
 <br/>
 <br/>
 -2016-
 <br/>
 <br/>
-Kaye J.T., Bradford D.E., Curtin J.J.(2016). Psychometric properties of startle and corrugator response in NPU, Affective Picture Viewing, and Resting State Tasks. *Psychophysiology*, 53(8).1241-1255.doi.org/10.1111/psyp.12794. [PDF](files/KayeJ2016a/KayeJ2016a.pdf) [OSF](https://osf.io/fdjg9/)
+Kaye J.T., Bradford D.E., Curtin J.J.(2016). Psychometric properties of startle and corrugator response in NPU, Affective Picture Viewing, and Resting State Tasks. *Psychophysiology*, 53(8).1241-1255.doi.org/10.1111/psyp.12794. [**PDF**](files/KayeJ2016a/KayeJ2016a.pdf) [OSF](https://osf.io/fdjg9/)
 <br/>
 <br/>
 -2015-
 <br/>
 <br/>
-Bradford, D.E., Curtin, J.J., Piper, M.E. (2015). Anticipation of smoking sufficiently lowers stress reactivity for nicotine deprived smokers. *Journal of Abnormal Psychology*, 124(1), 128-136. doi:10.1037/abn0000007. [PDF](files/BradfordD2015a/BradfordD2015a.pdf)
+Bradford, D.E., Curtin, J.J., Piper, M.E. (2015). Anticipation of smoking sufficiently lowers stress reactivity for nicotine deprived smokers. *Journal of Abnormal Psychology*, 124(1), 128-136. doi:10.1037/abn0000007. [**PDF**](files/BradfordD2015a/BradfordD2015a.pdf)
 
-Bradford, D.E., Starr, M.J., Shackman, A.J., Curtin, J. J. (2015). Empirically-based comparisons of the reliability and validity of common quantification approaches for eyeblink startle potentiation in humans. *Psychophysiology*,52(12), 1669-1681. doi: 10.1111/psyp.12545 [PDF](files/BradfordD2015b/BradfordD2015b.pdf) [OSF](https://osf.io/5nfvu/)
+Bradford, D.E., Starr, M.J., Shackman, A.J., Curtin, J. J. (2015). Empirically-based comparisons of the reliability and validity of common quantification approaches for eyeblink startle potentiation in humans. *Psychophysiology*,52(12), 1669-1681. doi: 10.1111/psyp.12545 [**PDF**](files/BradfordD2015b/BradfordD2015b.pdf) [OSF](https://osf.io/5nfvu/)
 
 Green, C.S., Eichenbaum, A., Kattner, F., Bradford, D.E.,Gentile, D.A., Choo, H., Hsueh, V., Chen, H., Khoo, A. (2015). The role of game genres and the development of internet gaming disorder in school-aged children. *Journal of Addictive Behaviors, Therapy & Rehabilitation* 4(3),doi:10.4172/2324-9005.1000141
 
@@ -103,9 +103,9 @@ Eichenbaum, A., Kattner, F.,Bradford, D.E., Gentile, D.A., Green, C.S. (2015). R
 -2014-
 <br/>
 <br/>
-Bradford, D.E., Kaye, J.T., Curtin, J.J. (2014). Not just noise: Individual differences in general startle reactivity predict startle reactivity to uncertain and certain threat. *Psychophysiology*,51(5), 707-411. doi:10.1111/psyp.12193. [PDF](files/BradfordD2014b/BradfordD2014b.pdf)
+Bradford, D.E., Kaye, J.T., Curtin, J.J. (2014). Not just noise: Individual differences in general startle reactivity predict startle reactivity to uncertain and certain threat. *Psychophysiology*,51(5), 707-411. doi:10.1111/psyp.12193. [**PDF**](files/BradfordD2014b/BradfordD2014b.pdf)
 
-Bradford, D.E., Magruder, K.P., Korhumel, R.A., Curtin, J.J. (2014). Using the threat probability task to assess anxiety and fear to uncertain and certain threat. *Journal of Visualized Experiments*(91). doi:10.3791/51905. [PDF](files/BradfordD2014b/BradfordD2014b.pdf) [Video](https://www.jove.com/embed/player?id=51905&access=vqy3aggu&t=1&s=1)
+Bradford, D.E., Magruder, K.P., Korhumel, R.A., Curtin, J.J. (2014). Using the threat probability task to assess anxiety and fear to uncertain and certain threat. *Journal of Visualized Experiments*(91). doi:10.3791/51905. [**PDF**](files/BradfordD2014b/BradfordD2014b.pdf) [Video](https://www.jove.com/embed/player?id=51905&access=vqy3aggu&t=1&s=1)
 
 Lissek, S., Bradford, D.E., Alvarez, R.P., Burton, P., Espensen-Sturges, T., Reynolds,R.C., and Grillon, C. (2014). Neural substrates of classically conditioned fear-generalization in humans: A parametric fMRI study. *Social Cognitive and Affective Neuroscience*, 9(8), 1134-1142. doi:10.1093/scan/nst096. 
 <br/>
@@ -113,7 +113,7 @@ Lissek, S., Bradford, D.E., Alvarez, R.P., Burton, P., Espensen-Sturges, T., Rey
 -2013-
 <br/>
 <br/>
-Bradford, D.E., Shapiro, B.L., Curtin, J.J. (2013). How bad could it be? Alcohol dampens stress responses to threat of uncertain intensity. *Psychological Science*, 24(12), 2541-2549. doi:10.1177/0956797613499923. [PDF](publication/BradfordD2013a/BradfordD2013a.pdf)
+Bradford, D.E., Shapiro, B.L., Curtin, J.J. (2013). How bad could it be? Alcohol dampens stress responses to threat of uncertain intensity. *Psychological Science*, 24(12), 2541-2549. doi:10.1177/0956797613499923. [**PDF**](publication/BradfordD2013a/BradfordD2013a.pdf)
 <br/>
 <br/>
 -2009-
