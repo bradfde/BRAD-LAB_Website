@@ -24,11 +24,11 @@ subtitle = "Much of our statement on lab values is inspired/borrowed by my colle
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "Aquamarine"
+   color = "rgb(25, 100, 150)"
   
 # Background gradient.
-   gradient_start = "rgb(25, 100, 150)"
-   gradient_end = "rgb(0, 102, 153)"
+  # gradient_start = "rgb(25, 100, 150)"
+  # gradient_end = "rgb(0, 102, 153)"
   
   # Background image.
   #image = "PalmTrees4.webp"  # Name of image in `static/img/`.
