@@ -5,7 +5,7 @@ bio: NA.
 education:
   courses:
   - course: Postdoctoral Researcher, Lead Research Technologist
-    institution: The Micheli Center for Sports Injury Prevention Department of Orthopedics, Division of Sports Medicine Boston Children’s Hospital
+    institution: The Micheli Center for Sports Injury Prevention Department of Orthopedics, Division of Sports Medicine, Boston Children’s Hospital
 
     year: Current
   - course: PhD in Applied Physiology 
@@ -25,7 +25,7 @@ email: "jessie.oldham@childrens.harvard.edu"
 # - Psychophysiology
 # - Open Science
 organizations:
-- name: Boston Children's Hospital
+- name: The Micheli Center for Sports Injury Prevention Department of Orthopedics, Division of Sports Medicine, Boston Children’s Hospital
   url: ""
 role: Postdoctoral Researcher, Lead Research Technologist
 social:
