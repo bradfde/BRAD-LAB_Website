@@ -26,7 +26,7 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-superuser: false
+superuser: true
 title: Blu Taratua
 user_groups:
 #- Researchers
