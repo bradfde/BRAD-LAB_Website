@@ -36,7 +36,7 @@ social:
 
     
 #Could also add GitHub
-superuser: false
+superuser: true
 title: Jenna Jarvis
 user_groups:
 - Assistant Researchers

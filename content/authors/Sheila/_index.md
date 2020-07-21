@@ -36,7 +36,7 @@ social:
 
     
 #Could also add GitHub
-superuser: false
+superuser: true
 title: Sheila Taratuta
 user_groups:
 - Assistant Researchers

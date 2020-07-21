@@ -36,7 +36,7 @@ social:
 
     
 #Could also add GitHub
-superuser: false
+superuser: true
 title: Malcolm Chavez-Gray
 user_groups:
 - Assistant Researchers

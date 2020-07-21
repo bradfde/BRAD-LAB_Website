@@ -25,7 +25,7 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-superuser: false
+superuser: true
 title: Snuggles Jarvis
 user_groups:
 #- Researchers

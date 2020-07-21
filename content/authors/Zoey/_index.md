@@ -26,7 +26,7 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-superuser: false
+superuser: true
 title: Zoey Davison
 user_groups:
 #- Researchers
