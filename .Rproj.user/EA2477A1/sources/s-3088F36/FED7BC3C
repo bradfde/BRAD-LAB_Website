@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "756949147",
+    "hash" : "0",
     "id" : "FED7BC3C",
-    "lastKnownWriteTime" : 1595299670,
-    "last_content_update" : 1595299670549,
+    "lastKnownWriteTime" : 1595299831,
+    "last_content_update" : 1595299831361,
     "path" : "C:/Users/Psychology/Desktop/GitHub/BRAD-LAB_Website/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "10,23",
-        "scrollLine" : "0"
+        "cursorPosition" : "7,20",
+        "scrollLine" : "21"
     },
     "read_only" : false,
     "read_only_alternatives" : [
