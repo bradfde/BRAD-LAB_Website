@@ -30,11 +30,11 @@ subtitle = "The U of Miami Psychology Department has a [tradition](http://local.
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "Blue"
+   color = "rgb(25, 100, 150)"
   
  # Background gradient.
-   gradient_start = "rgb(25, 100, 150)"
-   gradient_end = "rgb(0, 102, 153)"
+ #  gradient_start = "rgb(25, 100, 150)"
+  # gradient_end = "rgb(0, 102, 153)"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
