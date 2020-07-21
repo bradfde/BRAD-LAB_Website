@@ -24,11 +24,11 @@ title = "Joining the lab"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "rgb(25, 100, 150)"
+   color = "Aquamarine"
   
 # Background gradient.
-  # gradient_start = "rgb(25, 100, 150)"
-  # gradient_end = "rgb(0, 102, 153)"
+   gradient_start = "rgb(25, 100, 150)"
+   gradient_end = "rgb(0, 102, 153)"
   
   # Background image.
   #image = "PalmTrees4.webp"  # Name of image in `static/img/`.
@@ -55,7 +55,7 @@ title = "Joining the lab"
 
 **If you are interested in joining the BRAD-LAB as a graduate student, please note:**  
 
-Dr. Bradford reads all applications fully. It should be noted that the psychology programs at the university of Miami are competitive. As such, successful applicants typically have higher than average GRE scores, GPAs, and at least 2 years of research experience. It is also preferable to have strong letters of recommendation. Though authorship on publications are not expected, some demonstration of scientific writing ability and/or presentation experience is preferred. Again, Dr. Bradford reads all applications fully. If you have strong interest in our lab and believe your application would be considered less competitive for any of the reasons above, please either ask one of your letter writers to address this in their recommendation or you can speak to this in your personal statement.
+Dr. Bradford reads all applications fully. It should be noted that the psychology programs at the university of Miami are competitive. As such successful applicants typically have higher than average GRE scores and GPAs and at least 2 years of research experience. It is also preferable to have strong letters of recommendation. Though authorship on publications are not expected, some demonstration of scientific writing ability and/or presentation experience is preferred. Again, Dr. Bradford reads all applications fully. If you have strong interest in our lab and believe your application would be considered less competitive for any of the reasons above, please either ask one of your letter writers to address this in their recommendation or you can speak to this in your personal statement.
 
 More specific to our lab, applicants that appear familiar with the research we are doing and have interests that are aligned with our current research will be most competitive for our lab. Because our lab uses modern and sophisticated methods, applicants must be interested in learning about and acquiring the necessary expertise to use computing programs such as R and MATLAB. Finally, applicants with interest in Open Science theory and practice will fit best with our lab. Prospective students are encouraged to contact Dr. Bradford with any questions. You can apply to the clinical psychology program at University of Miami [here](https://www.psy.miami.edu/graduate/how-to-apply/index.html).
  
@@ -64,11 +64,11 @@ More specific to our lab, applicants that appear familiar with the research we a
 
 Which are you interested in: volunteering or getting credit for research in the lab?  
 
-What days and hours are you typically available to work in the lab (it's ok if you are not sure yet when you email)?  
+What days and hours are you typically available to work in the lab (its ok if you are not sure yet when you email)?  
 
 Why are you interested in working in this lab?  
 
-What do you think you can contribute to this lab?  
+What do you think you could contribute to this lab?  
 
 Have you worked in other labs? Please list and describe your experience.  
 

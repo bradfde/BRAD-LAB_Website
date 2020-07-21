@@ -25,11 +25,11 @@ title = "Research"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "rgb(25, 100, 150)"
+   #color = "DarkBlue"
   
  # Background gradient.
-   #gradient_start = "rgb(25, 100, 150)"
-   #gradient_end = "rgb(0, 102, 153)"
+   gradient_start = "rgb(25, 100, 150)"
+   gradient_end = "rgb(0, 102, 153)"
   
   
   # Background image.
