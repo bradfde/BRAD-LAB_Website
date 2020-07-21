@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593896263990.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3788024263",
+    "id" : "46E1A165",
+    "lastKnownWriteTime" : 1593896952,
+    "last_content_update" : 1593896952999,
+    "path" : "C:/Users/Psychology/Desktop/LabWebsite/Website/themes/hugo-academic/assets/scss/academic/_widgets.scss",
+    "project_path" : "themes/hugo-academic/assets/scss/academic/_widgets.scss",
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "scrollLine" : "62"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 23,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "scss"
+}
