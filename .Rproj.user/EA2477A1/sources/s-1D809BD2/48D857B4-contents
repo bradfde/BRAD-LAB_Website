@@ -103,7 +103,7 @@ Eichenbaum, A., Kattner, F.,Bradford, D.E., Gentile, D.A., Green, C.S. (2015). R
 -2014-
 <br/>
 <br/>
-Bradford, D.E., Kaye, J.T., Curtin, J.J. (2014). Not just noise: Individual differences in general startle reactivity predict startle reactivity to uncertain and certain threat. *Psychophysiology*,51(5), 707-411. doi:10.1111/psyp.12193. [**PDF**](files/BradfordD2014b/BradfordD2014b.pdf)
+Bradford, D.E., Kaye, J.T., Curtin, J.J. (2014). Not just noise: Individual differences in general startle reactivity predict startle reactivity to uncertain and certain threat. *Psychophysiology*,51(5), 707-411. doi:10.1111/psyp.12193. [**PDF**](files/BradfordD2014a/BradfordD2014a.pdf)
 
 Bradford, D.E., Magruder, K.P., Korhumel, R.A., Curtin, J.J. (2014). Using the threat probability task to assess anxiety and fear to uncertain and certain threat. *Journal of Visualized Experiments*(91). doi:10.3791/51905. [**PDF**](files/BradfordD2014b/BradfordD2014b.pdf) [Video](https://www.jove.com/embed/player?id=51905&access=vqy3aggu&t=1&s=1)
 
