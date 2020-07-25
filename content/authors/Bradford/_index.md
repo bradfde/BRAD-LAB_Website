@@ -1,6 +1,5 @@
 ---
-description:
-- Assistant Professor
+description: Assistant Professor
 authors:
 - Bradford
 bio: NA.

@@ -1,6 +1,5 @@
 ---
-description:
-- Postdoctoral Researcher
+description: Postdoctoral Researcher
 authors:
 - Jessie
 tags:
