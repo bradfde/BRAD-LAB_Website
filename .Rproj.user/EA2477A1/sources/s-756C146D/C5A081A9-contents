@@ -1,5 +1,5 @@
 ---
-type:
+description:
 - Assistant Professor
 authors:
 - Bradford

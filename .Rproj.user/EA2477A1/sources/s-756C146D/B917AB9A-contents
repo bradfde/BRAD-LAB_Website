@@ -1,5 +1,5 @@
 ---
-type:
+description:
 - Postdoctoral Researcher
 authors:
 - Jessie
