@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: University of Miami
   url: ""
-role: Assistant Professor of Clinical Psychology
+role: Director
 social:
 - icon: cv
   icon_pack: ai
