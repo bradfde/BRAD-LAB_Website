@@ -1,4 +1,6 @@
 ---
+type:
+- Postdoctoral Researcher
 authors:
 - Jessie
 tags:
