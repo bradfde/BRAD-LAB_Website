@@ -8,6 +8,7 @@
 # Title of your site
 title = "BRAD-LAB"
 description = "BRAD-LAB"
+author = "Bradford"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.

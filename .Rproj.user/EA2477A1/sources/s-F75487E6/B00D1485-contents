@@ -10,7 +10,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "The **BRAD**-LAB"
-subtitle = "The **B**radford **R**eproducability, **A**ffect, and **D**rugs Laboratory"
+subtitle = "The **B**radford **R**eproducibility, **A**ffect, and **D**rugs Laboratory"
 summary = "Welcome to the BRAD-LAB"
 authors = "Bradford"
 

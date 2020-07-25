@@ -36,7 +36,7 @@ social:
 
     
 #Could also add GitHub
-superuser: true
+superuser: false
 title: Carmen Lechin
 user_groups:
 - Assistant Researchers
