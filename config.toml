@@ -21,6 +21,8 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+disableKinds = ["taxonomy", "term"]
+
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
