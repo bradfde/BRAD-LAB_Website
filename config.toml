@@ -21,7 +21,10 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
-disableKinds = ["taxonomy", "term"]
+#disableKinds = ["taxonomy", "term"] #If want to disable tags but unfortuantely people page needs this 
+
+
+
 
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
@@ -79,7 +82,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # Taxonomies.
 [taxonomies]
   tag = "tags"
-  category = "categories"
+  #category = "categories"
   publication_type = "publication_types"
   author = "authors"
 
@@ -108,3 +111,4 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [[related.indices]]
     name = "authors"
     weight = 20.0
+    

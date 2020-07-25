@@ -48,13 +48,43 @@
   </url>
   
   <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,6 +113,16 @@
   </url>
   
   <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -98,8 +138,28 @@
   </url>
   
   <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,8 +173,73 @@
   </url>
   
   <url>
+    <loc>/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/blu-taratua/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/carmen-lechin/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/carson-coudriet/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr.-daniel-bradford/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr.-jessie-oldham/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jenna-jarvis/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/luci-coudriet/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/lucy-bradford/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/malcolm-chavez-gray/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/obi-alozie/</loc>
   </url>
   
   <url>
@@ -122,7 +247,31 @@
   </url>
   
   <url>
+    <loc>/author/rodrigo-alfonzo/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/sheila-taratuta/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/snuggles-jarvis/</loc>
+  </url>
+  
+  <url>
     <loc>/labname/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/theresa-davison/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/zoey-davison/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>
