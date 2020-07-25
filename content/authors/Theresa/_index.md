@@ -36,7 +36,7 @@ social:
 
     
 #Could also add GitHub
-superuser: true
+superuser: false
 title: Theresa Davison
 user_groups:
 - Assistant Researchers
