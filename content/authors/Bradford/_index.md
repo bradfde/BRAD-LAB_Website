@@ -1,4 +1,6 @@
 ---
+tags:
+- Assistant Professor
 authors:
 - Bradford
 bio: NA.
@@ -26,7 +28,7 @@ interests:
 organizations:
 - name: University of Miami
   url: ""
-role: Director
+role: Assistant Professor of Clinial Psychology
 social:
 - icon: cv
   icon_pack: ai
