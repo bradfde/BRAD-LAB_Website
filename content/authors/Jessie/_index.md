@@ -30,7 +30,7 @@ email: "jessie.oldham@childrens.harvard.edu"
 organizations:
 - name: The Micheli Center for Sports Injury Prevention Department of Orthopedics, Division of Sports Medicine, Boston Children’s Hospital
   url: ""
-role: Postdoctoral Researcher, Lead Research Technologist
+role: Postdoctoral Researcher, Lead Research Technologist at Micheli Center, Boston Children's Hospital
 social:
 # - icon: cv
 #   icon_pack: ai
