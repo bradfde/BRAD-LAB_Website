@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jenna Jarvis | BRAD-LAB</title>
-    <link>/author/jenna-jarvis/</link>
-      <atom:link href="/author/jenna-jarvis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://brad-lab.com/author/jenna-jarvis/</link>
+      <atom:link href="https://brad-lab.com/author/jenna-jarvis/index.xml" rel="self" type="application/rss+xml" />
     <description>Jenna Jarvis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu952d9182fca0c543e2e65b96a70f24a8_115521_512x512_fill_lanczos_center_2.png</url>
+      <url>https://brad-lab.com/images/icon_hu952d9182fca0c543e2e65b96a70f24a8_115521_512x512_fill_lanczos_center_2.png</url>
       <title>Jenna Jarvis</title>
-      <link>/author/jenna-jarvis/</link>
+      <link>https://brad-lab.com/author/jenna-jarvis/</link>
     </image>
     
   </channel>
