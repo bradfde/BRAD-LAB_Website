@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599855401295.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "58780C10",
+    "lastKnownWriteTime" : 1598976536,
+    "last_content_update" : 1598976536,
+    "path" : "C:/Users/Psychology/OneDrive - University of Miami/Collaborations/JuttaYale/IJP/NewFigure.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "359,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 40,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
